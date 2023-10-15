@@ -61,3 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 This project was built as a learning exercise and is based on a simple vending machine simulation.
+
+# Vue Vending Machine
+
+This project is a work in progress. More updates will be added soon.
