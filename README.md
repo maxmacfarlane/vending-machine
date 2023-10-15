@@ -54,14 +54,14 @@ The application will start, and you will see a menu with options to:
 
 Follow the on-screen instructions to interact with the vending machine.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-This project was built as a learning exercise and is based on a simple vending machine simulation.
-
 # Vue Vending Machine
 
 This project is a work in progress. More updates will be added soon.
+
+## License
+
+These projects are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+These projects were built as a learning exercises and are based on a simple vending machine simulation.
