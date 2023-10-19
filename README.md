@@ -28,7 +28,7 @@ Before running the application, make sure you have the following software and de
 2. Navigate to the project directory:
 
    ```bash
-   cd vending-machine
+   cd vm-nodejs
    ```
 
 3. Install the required npm packages:
